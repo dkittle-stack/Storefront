@@ -12,8 +12,7 @@ img {
 body {
     font-size: 67.5%;
     font-family: Tahoma, Geneva, sans-serif;
-    background: url(../assets/Skiing-in-Upstate-New-York-10-Best-Ski-Resorts-For-Your-Winter-Vacation.jpeg) no-repeat fixed top center;
-    background-color: black;
+    background: url(../assets/Skiing-background.jpeg) no-repeat fixed top center;
     background-size: cover;
     padding: 0px;
     margin: 0px;  
@@ -138,7 +137,7 @@ section#sidebar {
 
 /* Main Section */
 section #main {
-    background-color: rgba(252,251,243,0.7));
+    background-color: rgba(252,251,243,0.7);
     margin: 0 0 2.0em;
     padding: 1.5em 0 2.0em 1.5em;
     display:inline-block;
